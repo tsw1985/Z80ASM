@@ -1,0 +1,16 @@
+|SLD.data.version|1
+main.asm|1||0|-1|-1|Z|pages.size:16384,pages.count:4,slots.count:4,slots.adr:0,16384,32768,49152
+main.asm|5||0|2|32768|F|main
+main.asm|5||0|2|32768|L|,main,
+main.asm|6||0|2|32768|T|
+main.asm|8||0|2|32771|T|
+main.asm|9||0|2|32773|T|
+main.asm|11||0|2|32774|T|
+main.asm|12||0|2|32776|T|
+main.asm|14||0|2|32777|T|
+main.asm|15||0|2|32779|T|
+main.asm|17||0|2|32780|T|
+main.asm|18||0|2|32782|T|
+main.asm|20||0|2|32783|F|loop
+main.asm|20||0|2|32783|L|,loop,,+used
+main.asm|21||0|2|32783|T|
