@@ -1,0 +1,1 @@
+sjasmplus --sld=hola.sld --fullpath main.asm
