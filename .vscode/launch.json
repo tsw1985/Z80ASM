@@ -4,7 +4,7 @@
         {
             "type": "dezog",
             "request": "launch",
-            "name": "Hola Mundo",
+            "name": "Internal Emulator",
             "remoteType": "zsim",
             "zsim": {
                 "preset": "spectrum"

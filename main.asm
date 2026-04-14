@@ -20,7 +20,7 @@ main:
     LD A, 'A'
     RST 0x10
 
-    LD A, 'A'
+    LD A, 'C'
     RST 0x10
 
 loop:
