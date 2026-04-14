@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "dezog",
+            "request": "launch",
+            "name": "Hola Mundo",
+            "remoteType": "zsim",
+            "zsim": {
+                "preset": "spectrum"
+            },
+            "sjasmplus": [
+                {
+                    "path": "hola.sld"
+                }
+            ],
+            "rootFolder": "${workspaceFolder}",
+            "load": "hola.sna",
+            "startAutomatically": false
+        }
+    ]
+}
